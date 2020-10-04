@@ -2,6 +2,8 @@
 
 This is a basic example of a simple ToDo list, without any kind of way to record data.
 
+![ToDo App screenshot](./src/assets/imgs/screenshot_todo_app.jpg)
+
 ### Project setup
 ```
 npm install
